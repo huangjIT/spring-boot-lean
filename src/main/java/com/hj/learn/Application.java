@@ -8,10 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @date 2020-06-29
  **/
 @SpringBootApplication(scanBasePackages = "com.hj.learn")
-public class App {
+public class Application {
 
     public static void main( String[] args ) {
-        SpringApplication.run(App.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }
