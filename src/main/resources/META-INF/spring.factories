@@ -3,4 +3,4 @@ org.springframework.context.ApplicationContextInitializer= com.hj.learn.initiali
 
 # Application Listeners
 org.springframework.context.ApplicationListener=\
-com.hj.learn.listerer.MyApplicationListener
+com.hj.learn.listener.MyApplicationListener
